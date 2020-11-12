@@ -39,6 +39,9 @@ export default {
 </script>
 
 <style scoped>
+  * {
+    text-align: center;
+  }
   .card{
       border-radius: 0;
       border: none;

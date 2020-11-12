@@ -1,6 +1,7 @@
 <template>
  <div id="Boad-Win">
      <div class="container">
+         
      </div>
      </div>
 </template>

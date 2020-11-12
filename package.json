@@ -28,5 +28,17 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
+  },
+  "_id": "client@1.0.0",
+  "bugs": {
+    "url": "https://github.com/HarisPratama/client/issues"
+  },
+  "homepage": "https://github.com/HarisPratama/client#readme",
+  "keywords": [],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarisPratama/client.git"
   }
 }

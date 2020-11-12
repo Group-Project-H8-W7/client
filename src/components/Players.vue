@@ -21,7 +21,7 @@
                 class="diplay-5"
                 style="font-family: 'Comic Sans MS', Comic Sans MS"
               >
-                {{localStorage.username}}
+               player-name
               </h3>
             </div>
           </div>

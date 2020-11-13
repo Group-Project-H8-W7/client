@@ -1,5 +1,5 @@
 <template>
- <div id="Boad-Win">
+ <div id="Board-Win">
      <div class="container">
          
      </div>

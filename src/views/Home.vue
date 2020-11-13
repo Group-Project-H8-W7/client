@@ -8,15 +8,7 @@
           <div class="mt-5">
             <label for="username" class="di">Enter Your Name</label><br />
             <input type="text" v-model="username" /> <br />
-            <button
-              type="button"
-              class="btn btn-success mt-3"
-              data-toggle="button"
-              aria-pressed="false"
-              @click.prevent="play"
-            >
-              Play
-            </button>
+            <button class="btn mt-5" type="submit" @click.prevent="play">GET IN</button>
           </div>
         </div>
       </div>
@@ -35,7 +27,7 @@ export default {
   methods: {
     play () {
       localStorage.username = this.username
-      this.$router.push({ path: '/room' })
+      this.$router.push({ path: '/waitingRoom' })
     }
   }
 }

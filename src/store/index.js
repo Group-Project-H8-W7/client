@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import profile from '../axios/axiosinstance'
+// import profile from '../axios/axiosinstance'
 
 Vue.use(Vuex)
 
